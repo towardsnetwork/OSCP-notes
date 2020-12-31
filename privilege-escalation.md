@@ -7,7 +7,7 @@
 
 ## Basic Enum
 
-```systeminfo```  -   Get system information | is system x64/x86 | Patches applied
+```systeminfo```  -   Get system information | is system x64/x86 | are any patches applied
 
 # Linux Privilege Escalations
 
