@@ -7,6 +7,7 @@
 
 ## Basic Enum
 Command | Result 
+------------|-----------
 systeminfo  |   Get system information ; is system x64/x86 ; are any patches applied
 
 # Linux Privilege Escalations
@@ -16,7 +17,7 @@ systeminfo  |   Get system information ; is system x64/x86 ; are any patches app
 ## Basic Enum
 Command | Result 
 ------------ | -------------
-whoami;id;uname -a | Get username and OS info
+whoami ; id ; uname -a | Get username and OS info
 
 
 
